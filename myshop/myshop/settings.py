@@ -130,3 +130,5 @@ MEDIA_URL = 'media/' # базовый url адрес, по которому ра
 MEDIA_ROOT = BASE_DIR / 'media' # локальный путь, по которому находятся файлы находятся и который следует формировать динамически
 
 CART_SESSION_ID = 'cart'
+
+EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'

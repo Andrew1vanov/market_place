@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-04-01 19:19+0300\n"
+"POT-Creation-Date: 2024-04-01 20:04+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -63,7 +63,6 @@ msgstr ""
 "            \"%(code)s\" (%(discount)s%% descuento)\n"
 "            "
 
-
 #: .\orders\templates\orders\order\create.html:28
 msgid "Total"
 msgstr "Total"
@@ -71,3 +70,7 @@ msgstr "Total"
 #: .\orders\templates\orders\order\create.html:32
 msgid "Place order"
 msgstr "Realizar compra"
+
+#: .\orders\urls.py:8
+msgid "create/"
+msgstr ""

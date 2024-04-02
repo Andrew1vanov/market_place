@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-04-01 20:04+0300\n"
-"PO-Revision-Date: 2024-04-01 20:09+0000\n"
+"PO-Revision-Date: 2024-04-02 20:30+0000\n"
 "Last-Translator:   <ad@mail.ru>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
@@ -29,11 +29,11 @@ msgstr "Cupón"
 
 #: .\myshop\settings.py:155
 msgid "English"
-msgstr "Ingles"
+msgstr "Inglés"
 
 #: .\myshop\settings.py:156
 msgid "Spanish"
-msgstr "Espanol"
+msgstr "Español"
 
 #: .\myshop\urls.py:27
 msgid "cart/"
@@ -73,7 +73,7 @@ msgid "Your cart"
 msgstr "Su carro"
 
 #: .\shop\templates\shop\base.html:20
-#, fuzzy, python-format
+#, python-format
 #| msgid ""
 #| "\n"
 #| "                            %(items)s item, $%(total)s\n"
@@ -96,8 +96,7 @@ msgstr[0] ""
 "              "
 msgstr[1] ""
 "\n"
-"                            %(items)s productos, $%(total)s\n"
-"              "
+"%(items)s productos, $%(total)s"
 msgstr[2] ""
 "\n"
 "                        "

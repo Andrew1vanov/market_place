@@ -157,4 +157,4 @@ LANGUAGES = [
     ('es', _('Spanish')),
 ]
 
-LOCALE_PATH = [BASE_DIR / 'locale',]
+LOCALE_PATHS = [BASE_DIR / 'locale',]

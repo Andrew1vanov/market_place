@@ -9,30 +9,31 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-04-01 20:04+0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2024-04-02 20:35+0000\n"
+"Last-Translator:   <ad@mail.ru>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Translated-Using: django-rosetta 0.10.0\n"
 
 #: .\cart\forms.py:9
 msgid "Quantitiy"
-msgstr "Cantidad"
+msgstr ""
 
 #: .\coupons\forms.py:4
 msgid "Coupon"
-msgstr "Cupón"
+msgstr ""
 
 #: .\myshop\settings.py:155
 msgid "English"
-msgstr "Ingles"
+msgstr ""
 
 #: .\myshop\settings.py:156
 msgid "Spanish"
-msgstr "Espanol"
+msgstr ""
 
 #: .\myshop\urls.py:27
 msgid "cart/"
@@ -47,10 +48,9 @@ msgid "payment/"
 msgstr ""
 
 #: .\myshop\urls.py:30
-#, fuzzy
 #| msgid "Coupon"
 msgid "coupons/"
-msgstr "Cupón"
+msgstr ""
 
 #: .\payment\urls.py:9
 msgid "process/"
@@ -66,11 +66,11 @@ msgstr ""
 
 #: .\shop\templates\shop\base.html:7 .\shop\templates\shop\base.html:12
 msgid "My shop"
-msgstr "Mi tienda"
+msgstr ""
 
 #: .\shop\templates\shop\base.html:18
 msgid "Your cart"
-msgstr "Su carro"
+msgstr ""
 
 #: .\shop\templates\shop\base.html:20
 #, fuzzy, python-format
@@ -90,17 +90,17 @@ msgid_plural ""
 "\n"
 "                            %(items)s items, $%(total)s\n"
 "                        "
-msgstr[0] "                            %(items)s producto, $%(total)s\n"
-msgstr[1] "                            %(items)s productos, $%(total)s\n"
+msgstr[0] ""
+msgstr[1] ""
 
 #: .\shop\templates\shop\base.html:27
 msgid "Your cart is empty"
-msgstr "Su carro está vacío."
+msgstr ""
 
 #: .\shop\templates\shop\product\detail.html:20
 msgid "Add to cart"
-msgstr "Añadir al carro"
+msgstr ""
 
 #: .\shop\templates\shop\product\detail.html:25
 msgid "People who bought this also bougth"
-msgstr "Personas que compraron esto también compraron"
+msgstr ""
